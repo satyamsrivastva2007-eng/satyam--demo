@@ -1,3 +1,3 @@
 # satyam--demo
-this is my first Git Repository
-author- Satyam kumar
+this is my first Git Repository.
+Author- Satyam kumar
